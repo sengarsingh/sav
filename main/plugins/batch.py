@@ -1,5 +1,5 @@
-#Tg:@mister_invisiblebot/save_restricted
-#Github. com/mrinvisible7
+#Tg:@Carrier_maker_1419_bot/save_restricted
+#Github. com/apnijanta
 
 """
 Plugin for both public & private channels!
