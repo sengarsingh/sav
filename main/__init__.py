@@ -1,4 +1,4 @@
-#Github.com/mrinvisible7
+#Github.com/apnijanta
 
 from pyrogram import Client
 
