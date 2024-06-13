@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/187dasharath/savebotworking",
     "website": "",
-    "success_url": "https://t.me/save_restricted",
+    "success_url": "https://t.me/restrgb",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
