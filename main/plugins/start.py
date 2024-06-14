@@ -42,7 +42,7 @@ async def remt(event):
   
 @Invix.on(events.NewMessage(incoming=True, pattern=f"{S}"))
 async def start(event):
-    text = "👋 Hi, I am 'Save Restricted Content ' bot.\n\n✅ Send me the Link of any message of Restricted Channels to Clone it here.\nFor private channel's messages, send the Invite Link first.\n\n👨🏻‍💻Owner: https://t.me/restrgb.\n**support:** https://t.me/restrgb"
+    text = "👋 Hi, I am 'Save Restricted Content ' bot.\n\n✅ Send me the Link of any message of Restricted Channels to Clone it here.\nFor private channel's messages, send the Invite Link first.\n\n/batch.\n/stop"
     #await start_srb(event, text)
     '''
     await event.reply(text, 
