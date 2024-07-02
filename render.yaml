@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Text Leech Bot
+    name: Save restricted content bot
     plan: free
     env: docker
     dockerfilePath: Dockerfile
