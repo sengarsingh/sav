@@ -4,10 +4,10 @@ services:
   name: Sav
   env: python
   build command: pip3 install --no-cache-dir -r requirements.txt
-  start command:
+  start command: python3 -m main
   runtime: docker
-  repo: https://github.com/sengarsingh/sav
-  plan: free
+  repo: https://github.com/sengarsingh/sav.git
+  branch: main
   envVars:
   - key: forcesub
     sync: false
@@ -21,9 +21,6 @@ services:
     sync: false
   - key: API_ID
     sync: false
-  region: oregon
-  dockerContext: .
-  dockerfilePath: Dockerfile
   autoDeploy: false
 
         
