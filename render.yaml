@@ -1,6 +1,10 @@
 services:
 - type: web
-  name: Save restricted content bot
+  plan: free
+  name: Sav
+  env: python
+  build command:
+  start command:
   runtime: docker
   repo: https://github.com/sengarsingh/sav
   plan: free
