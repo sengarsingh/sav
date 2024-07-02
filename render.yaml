@@ -3,7 +3,7 @@ services:
   plan: free
   name: Sav
   env: python
-  build command:
+  build command: pip3 install --no-cache-dir -r requirements.txt
   start command:
   runtime: docker
   repo: https://github.com/sengarsingh/sav
