@@ -15,3 +15,9 @@
 <a href="https://colab.research.google.com/https://github.com/sengarsingh/sav/blob/main/.github/𝙄𝙉𝙑𝙄𝙓" target="_blank">
   <img src="https://𝙄𝙉𝙑𝙄𝙓.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
+
+
+## Deploy To Koyeb
+              
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/sengarsingh/sav&branch=heroku&name=sav" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
