@@ -1,8 +1,5 @@
 # best_save_restricted_content_bot
 # made by [𝙄𝙉𝙑𝙄𝙓](https://t.me/restrgb) 
-<!-- GIF HEADER -->
-<img src="https://github.com/sengarsingh/sengarsingh/raw/main/assets/banner-header.gif">
-<img src="https://github.com/sengarsingh/sengarsingh/raw/main/assets/line-neon.gif" width="100%">
 
  
 # Deploy on heroku
@@ -24,3 +21,7 @@
               
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/sengarsingh/sav&branch=heroku&name=sav" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
+
+## Deploy To Render                  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/sengarsingh/sav)
