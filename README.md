@@ -12,6 +12,6 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/SudoR2spr/text-leech-bot/blob/main/.github/AshutoshGoswami24" target="_blank">
+<a href="https://colab.research.google.com/https://github.com/sengarsingh/sav/blob/main/.github/AshutoshGoswami24" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
