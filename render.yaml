@@ -14,7 +14,10 @@ services:
         sync: false
       - key: API_HASH
         sync: false
-      - key: 
+      - key: session_string
         sync: false
-      - key: PORT
-        value: 8000  # Default port value, update if needed
+      - key: forcesub
+        sync:  false
+      - key: auth
+        sync: false
+        
